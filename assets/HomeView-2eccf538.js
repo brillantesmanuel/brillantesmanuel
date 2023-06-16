@@ -1,0 +1,1 @@
+import{N as a}from"./navigation-00819c9d.js";import{d as o,c as t,a as e,b as n,F as s,o as r}from"./index-8c270ac3.js";const c=e("h1",null,"Home",-1),u=o({__name:"HomeView",setup(m){return(l,_)=>(r(),t(s,null,[c,e("main",null,[n(a)])],64))}});export{u as default};
