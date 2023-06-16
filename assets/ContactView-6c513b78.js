@@ -1,1 +1,0 @@
-import{N as a}from"./navigation-00819c9d.js";import{d as t,c as o,a as e,b as n,F as s,o as c}from"./index-8c270ac3.js";const r=e("h1",null,"Contact",-1),u=t({__name:"ContactView",setup(l){return(m,_)=>(c(),o(s,null,[r,e("main",null,[n(a)])],64))}});export{u as default};

@@ -1,1 +1,0 @@
-import{N as a}from"./navigation-00819c9d.js";import{d as o,c as t,a as e,b as n,F as s,o as r}from"./index-8c270ac3.js";const c=e("h1",null,"Projects",-1),u=o({__name:"ProjectsView",setup(l){return(m,_)=>(r(),t(s,null,[c,e("main",null,[n(a)])],64))}});export{u as default};
